@@ -1,2 +1,2 @@
 # YouTube-comment
-A Spark ML model to process youtube comments on pets
+A spark ML model to mark YouTube creators as dog or cat owners using comments.
